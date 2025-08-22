@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vuong</h1>
-<h3 align="center">4th year student at Industry University of Ho Chi Minh City (IUH)</h3>
+<h3 align="center">Final year student at Industry University of Ho Chi Minh City (IUH)</h3>
 
 - 📫 How to reach me **vuongnguyen221203@gmail.com**
   
