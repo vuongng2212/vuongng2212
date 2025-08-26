@@ -9,7 +9,9 @@
 
 ## 🔥 Streak Stats
  
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuongng2212" alt="GitHub Streak" /></a>
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vuongng2212&theme=dark" alt="GitHub Streak" /></a>
+</p>
 
 ## 🛠️ My Skills
 
