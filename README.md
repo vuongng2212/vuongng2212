@@ -8,9 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vuongng2212&label=VuongNguyen's%20Profile%20Views%20&color=dc143c&style=plastic" alt="vuongng2212" /> </p>
 
 ## 🔥 Streak Stats
-
+ 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=vuongng2212&theme=dark" alt="GitHub Streak" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vuongng2212" alt="GitHub Streak " />
 </p>
 
 ## 🛠️ My Skills
