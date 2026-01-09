@@ -10,7 +10,7 @@
 ## 🔥 Streak Stats
  
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vuongng2212&theme=react" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-blush.vercel.app?user=vuongng2212&theme=react" alt="GitHub Streak" /></a>
 </p>
 
 ## 🛠️ My Skills
