@@ -128,10 +128,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/vuongng2212"><img align="center" src="https://github-readme-streak-stats-eta-blush.vercel.app/api?username=vuongng2212&show_icons=true&locale=en&theme=algolia" alt="vuongng2212" height="192px"/></a>
+    <a href="https://github.com/vuongng2212"><img align="center" src="https://github-readme-stats-ashy-five-60.vercel.app/api?username=vuongng2212&show_icons=true&locale=en&theme=algolia" alt="vuongng2212" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-streak-stats-eta-blush.vercel.app/api/top-langs?username=vuongng2212&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vuongng2212" height="192px"/>
+	  <img src="https://github-readme-stats-ashy-five-60.vercel.app/api/top-langs?username=vuongng2212&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vuongng2212" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
